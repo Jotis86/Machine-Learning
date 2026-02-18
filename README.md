@@ -14,7 +14,7 @@
 
 ## 📖 Sobre este Repositorio
 
-Este repositorio es una colección de **6 proyectos completos de Machine Learning** desarrollados con fines educativos y de demostración profesional. Cada proyecto aborda un problema del mundo real utilizando diferentes técnicas de aprendizaje automático, desde clasificación y regresión hasta clustering, series temporales y procesamiento de lenguaje natural.
+Este repositorio es una colección de **6 proyectos completos de Machine Learning** desarrollados con fines educativos. Cada proyecto aborda un problema del mundo real utilizando diferentes técnicas de aprendizaje automático, desde clasificación y regresión hasta clustering, series temporales y procesamiento de lenguaje natural.
 
 ### 🎯 Objetivos del Portafolio
 
