@@ -1,0 +1,33 @@
+{
+  "optimal_clusters": 2,
+  "best_method": "KMeans_Cluster",
+  "silhouette_score": 0.3525555845087716,
+  "features_used": [
+    "Income",
+    "Recency",
+    "Children",
+    "MntWines",
+    "MntFruits",
+    "MntMeatProducts",
+    "MntFishProducts",
+    "MntSweetProducts",
+    "MntGoldProds",
+    "NumDealsPurchases",
+    "NumWebPurchases",
+    "NumCatalogPurchases",
+    "NumStorePurchases",
+    "NumWebVisitsMonth",
+    "Total_MntSpent",
+    "Total_Purchases",
+    "Customer_Since",
+    "Age",
+    "Avg_Category_Spending",
+    "Purchase_Frequency",
+    "Avg_Spending_Per_Purchase"
+  ],
+  "total_customers": 2240,
+  "cluster_distribution": {
+    "0": 956,
+    "1": 1284
+  }
+}

@@ -1,0 +1,5 @@
+,Income,Income,Income,Total_MntSpent,Total_MntSpent,Total_MntSpent,Total_Purchases,Total_Purchases,Total_Purchases,Children,Children,Children,MntWines,MntWines,MntWines,MntMeatProducts,MntMeatProducts,MntMeatProducts,Recency,Recency,Recency,NumWebVisitsMonth,NumWebVisitsMonth,NumWebVisitsMonth
+,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count
+KMeans_Cluster,,,,,,,,,,,,,,,,,,,,,,,,
+0,71008.86,23450.46,956,1205.72,434.56,956,21.78,4.69,956,0.56,0.64,956,600.66,309.2,956,346.43,247.87,956,49.22,29.0,956,3.9,2.25,956
+1,38262.14,15055.4,1284,159.13,156.73,1284,9.71,4.92,1284,1.24,0.7,1284,83.01,110.02,1284,33.32,36.09,1284,49.03,28.94,1284,6.37,1.98,1284
